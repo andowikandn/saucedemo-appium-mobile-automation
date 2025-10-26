@@ -1,0 +1,140 @@
+{
+    "name": "test_checkout_E2E",
+    "status": "passed",
+    "steps": [
+        {
+            "name": "Tap autofill standard user",
+            "status": "passed",
+            "start": 1761490889157,
+            "stop": 1761490889415
+        },
+        {
+            "name": "Tap login button",
+            "status": "passed",
+            "start": 1761490891812,
+            "stop": 1761490891990
+        },
+        {
+            "name": "Add to cart jacket from dashboard",
+            "status": "passed",
+            "start": 1761490896873,
+            "stop": 1761490897005
+        },
+        {
+            "name": "Add to cart backpack from dashboard",
+            "status": "passed",
+            "start": 1761490905001,
+            "stop": 1761490905111
+        },
+        {
+            "name": "User tap cart badge",
+            "status": "passed",
+            "start": 1761490905111,
+            "stop": 1761490905782
+        },
+        {
+            "name": "Scroll to checkout button",
+            "status": "passed",
+            "start": 1761490905782,
+            "stop": 1761490910138
+        },
+        {
+            "name": "User tap checkout button",
+            "status": "passed",
+            "start": 1761490910644,
+            "stop": 1761490910771
+        },
+        {
+            "name": "Input first name field",
+            "status": "passed",
+            "start": 1761490910772,
+            "stop": 1761490912254
+        },
+        {
+            "name": "Input last name field",
+            "status": "passed",
+            "start": 1761490912254,
+            "stop": 1761490913294
+        },
+        {
+            "name": "Input zipcode field",
+            "status": "passed",
+            "start": 1761490913294,
+            "stop": 1761490913850
+        },
+        {
+            "name": "User tap continue button",
+            "status": "passed",
+            "start": 1761490913850,
+            "stop": 1761490914454
+        },
+        {
+            "name": "Verify overview page",
+            "status": "passed",
+            "start": 1761490919291,
+            "stop": 1761490919466
+        },
+        {
+            "name": "User tap finish button",
+            "status": "passed",
+            "start": 1761490919989,
+            "stop": 1761490920093
+        },
+        {
+            "name": "Verify checkout completed page",
+            "status": "passed",
+            "start": 1761490920093,
+            "stop": 1761490921589
+        },
+        {
+            "name": "User tap back home button",
+            "status": "passed",
+            "start": 1761490922093,
+            "stop": 1761490922970
+        }
+    ],
+    "start": 1761490885032,
+    "stop": 1761490922971,
+    "uuid": "77022028-e10f-409c-92ac-986e4b85f937",
+    "historyId": "01102883226ab21d03e1d3346398108b",
+    "testCaseId": "01102883226ab21d03e1d3346398108b",
+    "fullName": "tests.test_checkout#test_checkout_E2E",
+    "labels": [
+        {
+            "name": "feature",
+            "value": "9. Checkout end to end"
+        },
+        {
+            "name": "parentSuite",
+            "value": "tests"
+        },
+        {
+            "name": "suite",
+            "value": "test_checkout"
+        },
+        {
+            "name": "host",
+            "value": "MacBook-Air.local"
+        },
+        {
+            "name": "thread",
+            "value": "29026-MainThread"
+        },
+        {
+            "name": "framework",
+            "value": "pytest"
+        },
+        {
+            "name": "language",
+            "value": "cpython3"
+        },
+        {
+            "name": "package",
+            "value": "tests.test_checkout"
+        }
+    ],
+    "titlePath": [
+        "tests",
+        "test_checkout.py"
+    ]
+}
